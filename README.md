@@ -9,7 +9,7 @@ The website highlights my technical skills, academic background, and projects re
 ## 🚀 Live Portfolio
 
 🔗 **View Website:**  
-https://mrudhulabikkavolu.github.io/portfolio
+https://mrudhulabikkavolu.github.io/portfolio_website
 
 ---
 
@@ -51,7 +51,7 @@ https://mrudhulabikkavolu.github.io/portfolio
 You can explore the complete portfolio here:
 
 🔗 **Portfolio Link:**  
-https://mrudhulabikkavolu.github.io/portfolio
+https://mrudhulabikkavolu.github.io/portfolio_website
 
 ---
 
